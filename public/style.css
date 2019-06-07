@@ -1,0 +1,22 @@
+body {
+  height: 100%;
+  display: grid;
+  background-color: pink;
+}
+
+span { /* thing to center */
+  margin: auto;
+}
+
+html {
+	height: 100%;
+	display: grid;
+}
+
+h1 {
+	color: white;
+}
+
+h2 {
+	color:	white;
+}
